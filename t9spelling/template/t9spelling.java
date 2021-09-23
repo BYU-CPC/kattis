@@ -1,3 +1,6 @@
+// comment out the next line
+package kattis.t9spelling.template;
+
 import java.util.*;
 
 public class t9spelling {
