@@ -1,5 +1,5 @@
 // comment out the next line
-package kattis.financialplanning;
+package kattis.financialplanning.template;
 
 import java.util.*;
 
